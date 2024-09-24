@@ -1,0 +1,14 @@
+{
+   "src": "c1",
+   "dest": "n1",
+   "body": {
+     "msg_id": 1,
+     "type": "echo",
+     "echo": "hello there"
+   },
+   "count": 0
+ }
+
+ 
+
+ 
